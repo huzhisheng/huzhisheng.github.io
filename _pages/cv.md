@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Architecture, Peking University, 2025 (expected)
 * B.S. in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2022
-* Overall GPA 3.96/4
+  * Overall GPA 3.96/4
 
 Work experience
 ======
@@ -50,6 +51,7 @@ Projects
 
 Awards
 ======
+
 | time | award |
 | --------- | ------------------------------------------------------------------------------ |
 | 2021-12 | **"Li Guang" Scholarship** (sponsored by RICOH) |
@@ -61,3 +63,4 @@ Awards
 | 2020-08 | **The National Third Prize in Compilation System Design Contest for Chinese Undergraduates** |
 | 2019-11 | **The Second Prize of Guangdong Province in the National Undergraduate Mathematics Contest** |
 | 2019-11 | **Second Class Academic Scholarship in 2019** |
+
