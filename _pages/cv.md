@@ -46,7 +46,7 @@ Teaching Assistant
 Projects
 ======
   <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Awards
