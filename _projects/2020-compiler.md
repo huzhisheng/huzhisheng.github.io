@@ -3,7 +3,7 @@ title: "Compilation System Design Contest Project"
 collection: projects
 type: "contest project"
 permalink: /projects/2020-compiler
-venue: "Harbin Institute of Technology"
+venue: "Harbin Institute of Technology (Shenzhen)"
 date: 2020-08-01
 location: "Shenzhen"
 ---
