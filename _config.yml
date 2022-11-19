@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhisheng Hu"
+title                    : "Zhisheng Hu1"
 title_separator          : "-"
-name                     : &name "Zhisheng Hu"
+name                     : &name "Zhisheng Hu2"
 description              : &description "personal description"
 url                      : https://huzhisheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
