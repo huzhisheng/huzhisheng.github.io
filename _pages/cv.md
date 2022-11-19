@@ -53,7 +53,7 @@ Awards
 ======
 
 | time | award |
-| --------- | ------------------------------------------------------------------------------ |
+| --------- | ------------------------------------------------------------------------ |
 | 2021-12 | **"Li Guang" Scholarship** (sponsored by RICOH) |
 | 2021-11 | **First Class Academic Scholarship in 2021** |
 | 2021-11 | **Huawei Smart Pedestal Scholarship** (sponsored by Huawei) |
