@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF CV](http://huzhisheng.github.io/files/MyCV_v1.pdf)
+
 Education
 ======
 * M.S. in Computer Architecture, Peking University, 2025 (expected)
