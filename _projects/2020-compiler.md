@@ -1,5 +1,5 @@
 ---
-title: "Compilation System Design Contest Project"
+title: "Compiler Project"
 collection: projects
 type: "contest project"
 permalink: /projects/2020-compiler
