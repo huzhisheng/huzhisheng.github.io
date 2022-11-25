@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zhisheng Hu, a postgraduate student from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I received my B.Sc. in computer science and technology from [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/) in 2022. My research interest locates in Storage System, such as Disaggregated Memory, Databases and Distributed Systems.
+Hello, I'm Zhisheng Hu, a postgraduate student from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I received my B.Sc. in computer science and technology from [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/) in 2022. My research interest locates in systems, such as Operating System, Database, Cloud Computing and Distributed System.
 
 During my undergraduate period in Harbin Institute of Technology (Shenzhen), under the guidance of [Prof. Wen Xia](https://cswxia.github.io/), I studied the flash file system and tried to optimize the performance of the flash file system while ensuring the wear leveling of the flash media.
 
