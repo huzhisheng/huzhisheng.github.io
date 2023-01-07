@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV.pdf)
+[PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v2.pdf)
 
 Education
 ======
-* M.S. in Computer Architecture, Peking University, 2025 (expected)
 * B.S. in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2022
   * Overall GPA 3.96/4
 
 Work experience
 ======
+* 2022.09 - present: Research Assistant
+  * School of Computer Science, Peking University
 * 2021.12 - 2022.07: Research Intern
   * Cloud Storage Innovation Lab of Huawei Cloud
   * Main Job: Building a high efficient disaggregated memory system
