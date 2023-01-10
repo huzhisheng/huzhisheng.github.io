@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v2.pdf)
+[PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v3.pdf)
 
 Education
 ======
 * B.S. in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2022
-  * Overall GPA 3.96/4
+  * GPA of Core Courses: 3.96/4
 
 Work experience
 ======
