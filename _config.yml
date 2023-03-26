@@ -6,10 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zhisheng Hu"
+description              : ""
+repository               : "huzhisheng/huzhisheng.github.io"
 google_scholar_stats_use_cdn : true
+clustrmaps:
+  enabled: true
+  src: "https://cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=-fHqtFSNBydg9aEx54lVlgfr-umm5QYbXTkEseFtFt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +24,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Zhisheng Hu"
+  avatar           : "images/avatar-me.jpg"
+  bio              : "The Chinese University of Hong Kong (CUHK)"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=4y4_lfIAAAAJ&hl=en"
+  email            : "zshu23@cse.cuhk.edu.hk"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +40,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "huzhisheng"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "zhisheng-hu-1346832a0"
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 

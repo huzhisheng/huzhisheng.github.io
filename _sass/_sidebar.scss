@@ -92,7 +92,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 125px;
     min-width: 75px;
     border-radius: 50%;
 
@@ -267,4 +267,11 @@
   @include breakpoint($large) {
     display: none;
   }
+}
+
+.author__clustrmaps {
+  margin-top: 2rem;
+  max-width: 100%;
+  overflow: hidden;
+  text-align: left;
 }

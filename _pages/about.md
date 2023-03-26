@@ -8,51 +8,85 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hello, I am Zhisheng Hu [ 胡智胜 ], a third-year Ph.D. candidate in [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), advised by [Prof. Ming-Chang Yang](http://www.cse.cuhk.edu.hk/~mcyang/). Before joining CUHK, I earned my B.Eng. from [Harbin Institute of Technology, Shenzhen (HITSZ)](http://en.hitsz.edu.cn/), advised by [Prof. Wen Xia](https://cswxia.github.io/) in 2022.
+
+My research focuses on building efficient, scalable, and reliable systems for the next generation of hardware and workloads. Specifically, I am interested in: 
+* **Distributed & Storage Systems:** Designing efficient storage engines and memory fabrics.
+* **Emerging Hardware:** Optimizing systems for NVMe/NOR Flash, RDMA, and CXL.
+* **AI Infrastructure:** Enhancing ML system performance through architectural innovations.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Conference Papers
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+1. [Demeter: A Scalable and Elastic Tiered Memory Solution for Virtualized Cloud via Guest Delegation](https://dl.acm.org/doi/10.1145/3731569.3764801) \\
+Junliang Hu, **Zhisheng Hu**, Chun-Feng Wu, and Ming-Chang Yang \\
+The 31st Symposium on Operating Systems Principles (SOSP), 2025
+[[pdf]](https://dl.acm.org/doi/10.1145/3731569.3764801), [[code]](https://zenodo.org/records/16912877)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+2. [Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://dl.acm.org/doi/abs/10.1145/3694715.3695951) \\
+**Zhisheng Hu**, Pengfei Zuo, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang \\
+The 30th ACM Symposium on Operating Systems Principles (SOSP), 2024
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/3694715.3695951), [[code]](https://github.com/dmemsys/Aceso)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+3. [HNFFS: Revisiting the NOR Flash File System](https://ieeexplore.ieee.org/document/9898580/) \\
+Yanqi Pan, **Zhisheng Hu**, Nan Zhang, Hao Hu, Wen Xia, et al.  \\
+The 11th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), 2022
+[[pdf]](https://ieeexplore.ieee.org/document/9898580/)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Preprints
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. [Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks](https://arxiv.org/pdf/2512.16136) \\
+**Zhisheng Hu**, Pengfei Zuo, Junliang Hu, Yizou Chen, Yingjia Wang, Ming-Chang Yang  \\
+arXiv:2512.16136, 2025
+[[pdf]](https://arxiv.org/pdf/2512.16136)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+2. [FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store](https://arxiv.org/pdf/2512.16148) \\
+**Zhisheng Hu**, Jiacheng Shen, Ming-Chang Yang  \\
+arXiv:2512.16148, 2025
+[[pdf]](https://arxiv.org/pdf/2512.16148)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Educations
+- *2023.08 - present*, The Chinese University of Hong Kong
+  - Ph.D. candidate in Computer Science and Engineering (Advisor: [Prof. Ming-Chang Yang](http://www.cse.cuhk.edu.hk/~mcyang/))
+- *2022.08 - 2023.07*, Peking University
+  - Research Assistant in School of Computer Science
+- *2018.08 - 2022.07*, Harbin Institute of Technology, Shenzhen
+  - B.Eng. in Computer Science and Technology (Advisor: [Prof. Wen Xia](https://cswxia.github.io/))
+
+
+# Internships
+- *2022.08 - 2025.12*, Huawei Cloud (Remote)
+  - Research Intern supervised by [Dr. Pengfei Zuo](https://pfzuo.github.io/)
+  - Conducted research on **RDMA-based disaggregated memory** and **LLM inference**
+- *2021.12 - 2022.07*, Huawei Cloud
+  - Research Intern supervised by [Dr. Pengfei Zuo](https://pfzuo.github.io/)
+  - Conducted research on **RDMA-based disaggregated memory**
+- *2019.01 - 2021.07*, Harbin Institute of Technology, Shenzhen
+  - Undergraduate Researcher advised by [Prof. Wen Xia](https://cswxia.github.io/)
+  - Conducted research on **flash-based file systems**
+
+
+# Selected Awards
+- *2024*, SOSP Student Travel Grant
+- *2022*, Outstanding Graduate of HIT
+- *2021*, National First Prize, China Computer System Development Capability Competition
+- *2021*, Ricoh Scholarship
+- *2021*, First-class Scholarship, HITSZ (Top 5%)
+
+
+# Teaching Assistant
+- **CUHK CSCI 3180**  Principles of Programming Language;  Spring 2024
+- **CUHK CSCI 2510**  Computer Organization;  Fall 2023
+- **HITSZ COMP 3001**  Operating Systems;  Fall 2021
+
+
+# Others
+- Languages: Chinese (Native); English (IELTS 7.0)

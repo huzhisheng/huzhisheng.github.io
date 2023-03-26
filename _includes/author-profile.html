@@ -119,6 +119,11 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul>
+      {% if site.clustrmaps.enabled and site.clustrmaps.src %}
+      <div class="author__clustrmaps">
+        <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps.src }}"></script>
+      </div>
+      {% endif %}
       <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
