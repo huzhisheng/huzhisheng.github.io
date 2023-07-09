@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2022.09 - present: Research Assistant
+* 2022.09 - 2023.06: Research Assistant
   * School of Computer Science, Peking University
 * 2021.12 - 2022.07: Research Intern
   * Cloud Storage Innovation Lab of Huawei Cloud
