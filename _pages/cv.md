@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v4.pdf)
+<!-- [PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v4.pdf) -->
 
 Education
 ======
@@ -28,8 +28,8 @@ Work experience
 Skills
 ======
 * Language: C/C++, Python
-* Others:
-  * Remote Direct Memory Access(RDMA)
+* Others: RDMA, Linux
+<!-- * Remote Direct Memory Access(RDMA) -->
 
 Publications
 ======
@@ -46,11 +46,11 @@ Teaching Assistant
   * Semester: Fall 2021
   * Harbin Institute of Technology (Shenzhen)
 
-Projects
+<!-- Projects
 ======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Awards
 ======
