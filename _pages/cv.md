@@ -12,7 +12,7 @@ redirect_from:
 <!-- [PDF CV](http://huzhisheng.github.io/files/Zhisheng_CV_v4.pdf) -->
 
 <!-- Education -->
-======
+<!-- ====== -->
 * B.S. in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2022
   * GPA of Core Courses: 3.96/4
 
