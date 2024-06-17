@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,8 +22,9 @@ Work experience
   * School of Computer Science, Peking University
 * 2021.12 - 2022.07: Research Intern
   * Cloud Storage Innovation Lab of Huawei Cloud
-  * Main Job: Building a high efficient disaggregated memory system
   * Mentor: Pengfei Zuo
+<!-- * Main Job: Building a high efficient disaggregated memory system -->
+  
   
 Skills
 ======
@@ -31,11 +32,11 @@ Skills
 * Others: RDMA, Linux
 <!-- * Remote Direct Memory Access(RDMA) -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching Assistant
 ======
