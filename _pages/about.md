@@ -16,3 +16,5 @@ I worked in [Huawei Cloud's Cloud Storage Innovation Lab](https://www.huaweiclou
 
 For more information about Zhisheng’s background, please go to the page of [CV](https://huzhisheng.github.io/cv/).
 
+# Selected Publications
+- [SOSP] <u>Zhisheng Hu</u>, Pengfei Zuo, Yizou Chen, Chao Wang, Junliang HU, Ming-Chang Yang. Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores. In the 30th ACM Symposium on Operating Systems Principles, SOSP 2024.
