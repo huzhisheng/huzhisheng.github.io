@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Zhisheng Hu's Home Page"
+name                     : &name "Homepage"
 description              : &description "personal description"
 url                      : https://huzhisheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Zhisheng Hu"
   avatar           : "myself.jpg"
   bio              : "Second-year Ph.D. Student at The Chinese University of Hong Kong"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
