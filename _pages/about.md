@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zhisheng Hu, a second-year Ph.D. student at CSE Department, CUHK(The Chinese University of Hong Kong), supervised by [Prof. Ming-Chang Yang](http://www.cse.cuhk.edu.hk/~mcyang/). I received my B.Sc. in computer science and technology from [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/) in 2022. My research interest locates in Distributed System, Storage System, and Machine Learning System.
+Hello, I'm Zhisheng Hu, a Ph.D. student at the Department of Computer Science and Engineering (CSE), [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) from 2023, supervised by [Prof. Ming-Chang Yang](http://www.cse.cuhk.edu.hk/~mcyang/). I received my Bachelor’s Degree in Computer Science and Technology from [Harbin Institute of Technology, Shenzhen (HITSZ)](http://en.hitsz.edu.cn/) in 2022. My research interests include distributed systems, storage systems, and machine learning systems.
 
-During my undergraduate period in Harbin Institute of Technology (Shenzhen), under the guidance of [Prof. Wen Xia](https://cswxia.github.io/), I studied the flash file system and tried to optimize the performance of the flash file system while ensuring the wear leveling of the flash media.
+During my undergraduate studies at HITSZ, I conducted research on flash file systems under the guidance of [Prof. Wen Xia](https://cswxia.github.io/), focusing on optimizing performance while ensuring wear leveling of the flash media. 
 
-I worked in [Huawei Cloud's Cloud Storage Innovation Lab](https://www.huaweicloud.com/lab/storage/home.html) as a research intern from 2021/12/29 to 2022/07/08 under the supervision of [Dr. Pengfei Zuo](http://pfzuo.github.io/homepage/). In Cloud Storage Innovation Lab, I focused on building the next-generation efficient disaggregated memory.
+From December 2021 to July 2022, I worked as a research intern at [the Cloud Storage Innovation Lab of Huawei Cloud](https://www.huaweicloud.com/lab/storage/home.html), supervised by [Dr. Pengfei Zuo](http://pfzuo.github.io/homepage/). There, I focused on building next-generation efficient disaggregated memory systems.
 
-For more information about Zhisheng’s background, please go to the page of [CV](http://huzhisheng.github.io/files/MyEnglishCV-v2.pdf).
+For more information about Zhisheng’s background, please refer to the [CV](http://huzhisheng.github.io/files/MyEnglishCV-v2.pdf).

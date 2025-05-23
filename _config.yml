@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhisheng Hu"
   avatar           : "myself.jpg"
-  bio              : "Second-year Ph.D. Student at The Chinese University of Hong Kong"
+  bio              : "A second-year Ph.D. student at the Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=4y4_lfIAAAAJ&hl=en"
   email            : "zshu23@cse.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
