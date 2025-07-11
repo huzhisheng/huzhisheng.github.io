@@ -14,4 +14,4 @@ During my undergraduate studies at HITSZ, I conducted research on flash file sys
 
 From December 2021 to July 2022, I worked as a research intern at [the Cloud Storage Innovation Lab of Huawei Cloud](https://www.huaweicloud.com/lab/storage/home.html), supervised by [Dr. Pengfei Zuo](http://pfzuo.github.io/homepage/). There, I focused on building next-generation efficient disaggregated memory systems.
 
-For more information about Zhisheng’s background, please refer to the [CV](http://huzhisheng.github.io/files/MyEnglishCV-v2.pdf).
+For more information about Zhisheng’s background, please refer to the [CV](http://huzhisheng.github.io/files/MyEnglishCV-v3.pdf).
